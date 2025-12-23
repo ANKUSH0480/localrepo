@@ -1,11 +1,9 @@
 
 
-
-
-  let i = 0 ; 
-  while(i<10) 
-    {
-        console.log(i);
-      i++;
-    
-    }
+        let a = " ankush " 
+        console.log(a[0])
+         console.log(a[1])
+          console.log(a[2])
+           console.log(a[3])
+            console.log(a[4])
+             console.log(a[5])
